@@ -36,7 +36,7 @@ In this project, we created KPIs (Key Performance Indicators) for the dashboard.
 
 6)Attrition Rate vs. Years Since Last Promotion
 
-All the insights for all the KPIs are mentioned in the PowerPoint file. https://github.com/shaileshrnsingh/HR-Analytics/blob/main/Bank%20loan%20analysis.pptx
+All the insights for all the KPIs are mentioned in the PowerPoint file. https://github.com/shaileshrnsingh/HR-Analytics/blob/main/HR%20Analytics.pptx
 
 
 
