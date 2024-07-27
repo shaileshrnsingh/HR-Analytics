@@ -1,2 +1,2 @@
 # HR-Analytics
-I made the HR Analytics Dashboard using Excel, Power Bi, Tableau and Sql code for respective Kpi's
+I created the HR Analytics Dashboard using Excel, Power BI, Tableau, and SQL code for the respective KPIs.
